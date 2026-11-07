@@ -9,7 +9,7 @@ I'm a Computer Science graduate who enjoys building projects, solving problems, 
 * 🌍  I'm based in Baltimore, MD
 * 🖥️  See my portfolio at [MyPortfolio](http://renatamaliyetu.com)
 * ✉️  You can contact me at [maliyeturenata@gmail.com](mailto:maliyeturenata@gmail.com)
-* 🧠  I'm currently learning Angular
+* 🧠  Current interest is in ArcGIS
 * 💬  I love nature and food
 
 <p align="left">
